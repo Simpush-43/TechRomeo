@@ -1,0 +1,38 @@
+body{
+  background-color: pink;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px 
+}
+.main h1{
+  color: white;
+  font-family: "Love Light", cursive;
+}
+#content img{
+  border-radius: 15px;
+  height: 200px;
+  width: 200px;
+}
+.buttons{
+  margin-top: 20px;
+}
+.Btn1,.Btn2{
+  padding: 10px 15px;
+  border-radius: 11px;
+  margin: 10px;
+}
+.centre{
+  margin: 20px auto;
+  text-align: center;
+  display: block;
+}
+@media (max-width:768px) {
+  .text{
+    font-size: 1.5rem;
+    text-align: center;
+  }
+}
