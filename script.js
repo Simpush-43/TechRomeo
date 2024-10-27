@@ -15,7 +15,7 @@ const gifs = [
 ]
 let currentIndex1 = 0;
 const texts = [
-  `Please Maan Ja Yaar 🥹😞 `,
+  `Please Ja Yaar 🥹😞 `,
   `Please yrr Maan bhi jaoo 😔😞`,
   `Aaab Maan na hi <span style="color:red">Pdegaa</span> 😼😏`
 ]
